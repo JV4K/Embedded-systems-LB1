@@ -109,6 +109,8 @@ disp1color_printf(2, 4, FONTID_6X8M, Text);
     <img width="80%" src="./Images/Pasted image 20240106174458.png">
 </p>
 
+### Результаты работы проекта
+
 https://github.com/JV4K/Embedded-systems-LB1/assets/65915049/9598ffea-aa35-44c8-bc2f-0890058a5c46
 
 
